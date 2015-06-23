@@ -1,0 +1,21 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/paymill/paymill-php"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/educoder/pest"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/symfony/symfony"
+    }
+  ],
+  "require": {
+  	"symfony/symfony": "dev-master",
+    "paymill/paymill": "dev-master",
+    "educoder/pest": "1.0.0"
+  }
+}

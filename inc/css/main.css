@@ -1,0 +1,38 @@
+/*
+* phpskeleton css
+* @author https://about.me/bastian.kraus
+*/
+
+body {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+#wrapper {
+	display: inline-block;
+	width: 800px;
+	margin: auto;
+	border: 1px solid blue;
+}
+
+nav {
+	margin-bottom: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	background-color: #cdcdcd;
+	padding: 10px;
+	margin-right: 10px;
+}
+
+#document {
+	background-color: #ededed;
+	width: 100%;
+	min-height: 300px;
+}
+
+#debug {
+	text-align: left;
+}
